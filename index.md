@@ -7,4 +7,4 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is Kyle Ye, and I am a 12th Grade Student at Port Credit Secondary School 
