@@ -8,4 +8,4 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 ## About me
 My name is Kyle Ye, and I am a 12th Grade Student at Port Credit Secondary School.
-Aspiring Chemical Engineering.
+I am aspiring Chemical Engineering.
